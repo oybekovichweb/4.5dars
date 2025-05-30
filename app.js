@@ -247,7 +247,7 @@ while (n9 > 0) {
 }
 console.log("While9:", original === reversed);
 */
-/*
+
 let n10 = 29;
 let i = 2;
 let isPrime = true;
@@ -265,4 +265,4 @@ while (i * i <= n10) {
   }
   i++;
 }
-console.log("While10:", isPrime ? "Tub son" : "Tub emas");*/
+console.log("While10:", isPrime ? "Tub son" : "Tub emas");
