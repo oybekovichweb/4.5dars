@@ -143,7 +143,7 @@ let tempA = A;
 while (tempA >= B) {
   tempA -= B;
 }
-console.log("While1: Qolgan uzunlik =", tempA);*/
+console.log("While1: Qolgan uzunlik =", tempA);
 
 
 let A2 = 23;
